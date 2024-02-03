@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">native_kotlin</string>
+    <string name="hello_from_kotlin">Hello from Kotlin!</string>
+</resources>
